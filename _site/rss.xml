@@ -6,8 +6,8 @@
     <atom:link href="http://domain/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Wed, 29 Apr 2015 12:09:05 %z</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2015 12:09:05 %z</lastBuildDate>
+    <pubDate>Wed, 13 May 2015 15:18:46 %z</pubDate>
+    <lastBuildDate>Wed, 13 May 2015 15:18:46 %z</lastBuildDate>
 
     
     <item>
@@ -30,6 +30,7 @@
       <guid>http://domain/2015/04/29/secondpost.html</guid>
       <description>&lt;h2&gt;testing Pretzel&lt;/h2&gt;
 &lt;p&gt;I&apos;m adding a new post here, hopefully I can get this up to work with GitPages and then Prose.io&lt;/p&gt;
+&lt;p&gt;Adding some text, going to build with pretzel.&lt;/p&gt;
 </description>
     </item>
     
