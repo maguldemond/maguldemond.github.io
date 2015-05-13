@@ -3,7 +3,7 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2015-04-29T12:09:05.643925-04:00</updated>
+  <updated>2015-05-13T15:18:46.5104595-04:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
@@ -37,6 +37,7 @@
     </author>
     <content type="html">&lt;h2&gt;testing Pretzel&lt;/h2&gt;
 &lt;p&gt;I&apos;m adding a new post here, hopefully I can get this up to work with GitPages and then Prose.io&lt;/p&gt;
+&lt;p&gt;Adding some text, going to build with pretzel.&lt;/p&gt;
 </content>
   </entry>
   
