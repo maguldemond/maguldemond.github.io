@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Name</title>
+  <link href="http://domain/"/>
+  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+  <updated>2015-04-29T12:09:05.643925-04:00</updated>
+  <id>http://domain/</id>
+  <author>
+    <name>Author</name>
+    <email>Email</email>
+  </author>
+
+  
+  <entry>
+    <id>http://domain//2015/04/29/myfirstpost.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/04/29/myfirstpost.html"/>
+    <title>My First Edited Post</title>
+    <updated>2015-04-29T00:00:00-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;p&gt;This is my first post on the site!&lt;/p&gt;
+&lt;p&gt;And now it is edited.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//2015/04/29/secondpost.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/04/29/secondpost.html"/>
+    <title>Second Post</title>
+    <updated>2015-04-29T00:00:00-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;testing Pretzel&lt;/h2&gt;
+&lt;p&gt;I&apos;m adding a new post here, hopefully I can get this up to work with GitPages and then Prose.io&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
