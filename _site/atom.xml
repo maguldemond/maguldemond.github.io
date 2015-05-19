@@ -3,13 +3,46 @@
   <title>Feed Name</title>
   <link href="http://domain/"/>
   <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
-  <updated>2015-05-13T15:18:46.5104595-04:00</updated>
+  <updated>2015-05-19T16:16:39.8018928-04:00</updated>
   <id>http://domain/</id>
   <author>
     <name>Author</name>
     <email>Email</email>
   </author>
 
+  
+  <entry>
+    <id>http://domain//2015/05/19/testFromStackedit.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/05/19/testFromStackedit.html"/>
+    <title>this is a post</title>
+    <updated>2015-05-19T16:16:40.0158405-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;This stackedit seems very nice. 
+Just need to get it to integrate with github
+and to show the markdown
+and to allow setting the layout&lt;/p&gt;
+&lt;p&gt;Written with &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//2015/05/19/testAddPostFromGitHub.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/05/19/testAddPostFromGitHub.html"/>
+    <title>this is added via github</title>
+    <updated>2015-05-19T16:16:40.0152661-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Markdown added here.&lt;/p&gt;
+&lt;p&gt;I wonder if this is going to work.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://domain//2015/04/29/myfirstpost.html</id>

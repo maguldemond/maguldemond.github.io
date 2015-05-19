@@ -6,9 +6,36 @@
     <atom:link href="http://domain/rss.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-au</language>
-    <pubDate>Wed, 13 May 2015 15:18:46 %z</pubDate>
-    <lastBuildDate>Wed, 13 May 2015 15:18:46 %z</lastBuildDate>
+    <pubDate>Tue, 19 May 2015 16:16:39 %z</pubDate>
+    <lastBuildDate>Tue, 19 May 2015 16:16:39 %z</lastBuildDate>
 
+    
+    <item>
+      <title>this is a post</title>
+      <link>http://domain/2015/05/19/testFromStackedit.html</link>
+      <pubDate>Tue, 19 May 2015 16:16:40 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/05/19/testFromStackedit.html</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This stackedit seems very nice. 
+Just need to get it to integrate with github
+and to show the markdown
+and to allow setting the layout&lt;/p&gt;
+&lt;p&gt;Written with &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>this is added via github</title>
+      <link>http://domain/2015/05/19/testAddPostFromGitHub.html</link>
+      <pubDate>Tue, 19 May 2015 16:16:40 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/05/19/testAddPostFromGitHub.html</guid>
+      <description>&lt;p&gt;Markdown added here.&lt;/p&gt;
+&lt;p&gt;I wonder if this is going to work.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My First Edited Post</title>
